@@ -1,2 +1,2 @@
-# CursoZend2
-Curso de Zend 2
+# CursoZend
+Curso de Zend 
